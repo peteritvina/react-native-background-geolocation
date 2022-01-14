@@ -1,0 +1,6 @@
+[submodule "ios-common"]
+	path = ios/common
+	url = ssh://github.com/mauron85/background-geolocation-ios.git
+[submodule "android-common"]
+	path = android/common
+	url = ssh://github.com/bars0um/background-geolocation-android.git

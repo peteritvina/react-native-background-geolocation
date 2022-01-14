@@ -1,0 +1,69 @@
+{
+  "_from": "@mauron85/react-native-background-geolocation@0.6.3",
+  "_id": "@mauron85/react-native-background-geolocation@0.6.3",
+  "_inBundle": false,
+  "_integrity": "sha512-Q4o6OcCooYC4WrddrXS73pqAzowbxwuI3xOjOo2eYYWhNZCs+mioR2T5tij/pqUoJEfzt1h52Yn1a3rhRflKLQ==",
+  "_location": "/@mauron85/react-native-background-geolocation",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@mauron85/react-native-background-geolocation@0.6.3",
+    "name": "@mauron85/react-native-background-geolocation",
+    "escapedName": "@mauron85%2freact-native-background-geolocation",
+    "scope": "@mauron85",
+    "rawSpec": "0.6.3",
+    "saveSpec": null,
+    "fetchSpec": "0.6.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@mauron85/react-native-background-geolocation/-/react-native-background-geolocation-0.6.3.tgz",
+  "_shasum": "9d0133e42021fbfa0ff7b6283d9561a18f127a2f",
+  "_spec": "@mauron85/react-native-background-geolocation@0.6.3",
+  "_where": "/Users/dimo/panmed/dev/viaDriveThru",
+  "author": {
+    "name": "Marian Hello"
+  },
+  "bugs": {
+    "url": "https://github.com/mauron85/react-native-background-geolocation/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "plist": "^3.0.1"
+  },
+  "deprecated": false,
+  "description": "optimized background location tracking",
+  "homepage": "https://github.com/mauron85/react-native-background-geolocation#readme",
+  "keywords": [
+    "gps",
+    "geolocation",
+    "position",
+    "location",
+    "tracking",
+    "background",
+    "react",
+    "react-native",
+    "react-component",
+    "android",
+    "ios"
+  ],
+  "license": "Apache-2.0",
+  "main": "./index.js",
+  "name": "@mauron85/react-native-background-geolocation",
+  "peerDependencies": {
+    "react-native": ">=0.60.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauron85/react-native-background-geolocation.git"
+  },
+  "scripts": {
+    "link": "@mauron85/react-native-background-geolocation/scripts/postlink.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "unlink": "@mauron85/react-native-background-geolocation/scripts/postunlink.js"
+  },
+  "types": "./index.d.ts",
+  "version": "0.6.3"
+}
